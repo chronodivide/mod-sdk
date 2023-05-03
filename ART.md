@@ -1,6 +1,6 @@
 # List of supported `art.ini` entries
 
-*Engine version: 0.42*
+*Engine version: 0.44*
 
 ## `[<InfantrySequence>]`
 
@@ -169,7 +169,7 @@
 | Report | <span style="color: green">:heavy_check_mark:</span> | |
 | RoofDeployingAnim | <span style="color: green">:heavy_check_mark:</span> | |
 | RoofDeployingAnimDamaged | <span style="color: green">:heavy_check_mark:</span> | |
-| Rotates |  | |
+| Rotates | <span style="color: green">:heavy_check_mark:</span> | |
 | RunningFrames | <span style="color: green">:heavy_check_mark:</span> | |
 | Scorch | <span style="color: green">:heavy_check_mark:</span> | |
 | SecondaryFire |  | |

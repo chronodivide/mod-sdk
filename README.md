@@ -44,6 +44,7 @@ The internal storage can be accessed using a browser's dedicated dev tools or wi
 ```
 📁 / (Root)
 ├─📁 cache                              - Various caches (e.g. voxel models)
+├─📁 maps								- Custom maps (available to all mods)
 ├─📁 mods                               - Extension point for game modifications
 │ └─📁 <modId>
 │   ├─📁 replays
@@ -220,11 +221,9 @@ You can also apply on the game's [Discord](https://discord.gg/uavJ34JTWY) server
 
 ### <a name='Unsupportedenginefeatures'></a>Unsupported engine features
 
-* &cross; Map triggers (aside from cosmetic ambient sfx) and, as direct consequence, singleplayer or multiplayer coop maps
-* &cross; INI flags related to AI-controlled opponents found in `rules.ini` and `ai.ini`
+* &cross; Some map trigger events/actions which are usually used in singleplayer maps (See [MAPS.md](./MAPS.md))
+* &cross; INI flags related to AI-controlled opponents found in `rules.ini` and `ai.ini` and maps
 * &cross; Localized or ambient damage inflicted by Particle systems or sprite Animations
-* &cross; Crate Powerups that are unused in the original client (Invulnerability, IonStorm, Gas, Tiberium, Pod, Cloak, Darkness, Explosion, ICBM, Napalm, Squad)
-* &cross; Veterancy flags on pre-placed map units
 * &cross; Negative light/darkening on `AlphaImage`s (values lower than 127)
 * &cross; Veteran abilities which are unused in the original client (e.g. RANGE, GUARD_AREA)
 * &cross; `voxels.vpl`. Because voxels are rendered as 3D models, lighting is entirely managed by the 3D engine.

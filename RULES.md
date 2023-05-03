@@ -1,6 +1,6 @@
 # List of supported `rules.ini` entries
 
-*Engine version: 0.42*
+*Engine version: 0.44*
 
 ## [General]
 
@@ -264,7 +264,7 @@
 | RadarEventSpeed | <span style="color: green">:heavy_check_mark:</span> | |
 | RadarEventRotationSpeed | <span style="color: green">:heavy_check_mark:</span> | |
 | RadarEventColorSpeed | <span style="color: green">:heavy_check_mark:</span> | |
-| RevealTriggerRadius |  | |
+| RevealTriggerRadius | <span style="color: green">:heavy_check_mark:</span> | |
 | ExplosiveVoxelDebris |  | |
 | TireVoxelDebris |  | |
 | ScrapVoxelDebris |  | |
@@ -476,8 +476,8 @@
 | IceGrowthRate |  | |
 | IceSolidifyFrameTime |  | |
 | IceCrackSounds |  | |
-| AmbientChangeRate |  | |
-| AmbientChangeStep |  | |
+| AmbientChangeRate | <span style="color: green">:heavy_check_mark:</span> | |
+| AmbientChangeStep | <span style="color: green">:heavy_check_mark:</span> | |
 | SpeakDelay |  | |
 | TimerWarning |  | |
 | ExtraUnitLight | <span style="color: green">:heavy_check_mark:</span> | |
@@ -571,7 +571,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Crush |  | |
 | ExpSpread |  | |
 | FireSupress |  | |
-| FlameDamage |  | |
+| FlameDamage | <span style="color: yellow">:exclamation:</span> | Only used for Napalm crates |
 | FlameDamage2 |  | |
 | HomingScatter |  | |
 | MaxDamage |  | |
@@ -1235,7 +1235,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | ROT | <span style="color: green">:heavy_check_mark:</span> | |
 | Ranged |  | |
 | Scalable |  | |
-| Shadow |  | |
+| Shadow | <span style="color: green">:heavy_check_mark:</span> | |
 | ShrapnelCount | <span style="color: green">:heavy_check_mark:</span> | |
 | ShrapnelWeapon | <span style="color: green">:heavy_check_mark:</span> | |
 | SubjectToCliffs | <span style="color: green">:heavy_check_mark:</span> | |
@@ -1398,16 +1398,16 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Speed | <span style="color: green">:heavy_check_mark:</span> | |
 | Veteran | <span style="color: green">:heavy_check_mark:</span> | |
 | Unit | <span style="color: green">:heavy_check_mark:</span> | |
-| Invulnerability |  | |
+| Invulnerability | <span style="color: green">:heavy_check_mark:</span> | |
 | IonStorm |  | |
 | Gas |  | |
-| Tiberium |  | |
+| Tiberium | <span style="color: green">:heavy_check_mark:</span> | |
 | Pod |  | |
-| Cloak |  | |
-| Darkness |  | |
-| Explosion |  | |
-| ICBM |  | |
-| Napalm |  | |
+| Cloak | <span style="color: green">:heavy_check_mark:</span> | |
+| Darkness | <span style="color: green">:heavy_check_mark:</span> | |
+| Explosion | <span style="color: green">:heavy_check_mark:</span> | |
+| ICBM | <span style="color: green">:heavy_check_mark:</span> | |
+| Napalm | <span style="color: green">:heavy_check_mark:</span> | |
 | Squad |  | |
 
 </details>
@@ -1450,7 +1450,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | BounceSound |  | |
 | Damage | <span style="color: green">:heavy_check_mark:</span> | |
 | DamageRadius | <span style="color: green">:heavy_check_mark:</span> | |
-| Duration |  | |
+| Duration | <span style="color: green">:heavy_check_mark:</span> | |
 | Elasticity | <span style="color: green">:heavy_check_mark:</span> | |
 | ExpireAnim | <span style="color: green">:heavy_check_mark:</span> | |
 | ExpireSound |  | |
