@@ -1,6 +1,6 @@
 # List of supported map entries
 
-*Engine version: 0.44*
+*Engine version: 0.45*
 
 ## Events
 
@@ -22,7 +22,7 @@
 | 11 | DestroyedAll | <span style="color: green">:heavy_check_mark:</span> | |
 | 12 | CreditsExceed | <span style="color: green">:heavy_check_mark:</span> | |
 | 13 | ElapsedTime | <span style="color: green">:heavy_check_mark:</span> | |
-| 14 | MissionTimerExpired | | |
+| 14 | MissionTimerExpired | <span style="color: green">:heavy_check_mark:</span> | |
 | 15 | DestroyedBuildings | <span style="color: green">:heavy_check_mark:</span> | |
 | 16 | DestroyedUnits | <span style="color: green">:heavy_check_mark:</span> | |
 | 17 | NoFactoriesLeft | <span style="color: green">:heavy_check_mark:</span> | |

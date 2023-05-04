@@ -1,6 +1,6 @@
 # List of supported `rules.ini` entries
 
-*Engine version: 0.44*
+*Engine version: 0.45*
 
 ## [General]
 
@@ -886,7 +886,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | DoubleOwned |  | |
 | EligibleForDelayKill |  | |
 | EligibileForAllyBuilding | <span style="color: green">:heavy_check_mark:</span> | |
-| EliteAbilities | <span style="color: green">:heavy_check_mark:</span> | Only FASTER, STRONGER, FIREPOWER, SCATTER, ROF, SIGHT, SELF_HEAL |
+| EliteAbilities | <span style="color: green">:heavy_check_mark:</span> | |
 | ElitePrimary | <span style="color: green">:heavy_check_mark:</span> | |
 | EliteSecondary | <span style="color: green">:heavy_check_mark:</span> | |
 | EliteWeapon* | <span style="color: green">:heavy_check_mark:</span> | |
@@ -1112,7 +1112,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Unsellable | <span style="color: green">:heavy_check_mark:</span> | |
 | Upgrades |  | |
 | VehicleThief |  | |
-| VeteranAbilities | <span style="color: yellow">:exclamation:</span> | Only FASTER, STRONGER, FIREPOWER, SCATTER, ROF, SIGHT, SELF_HEAL |
+| VeteranAbilities | <span style="color: green">:heavy_check_mark:</span> | |
 | VHPScan | <span style="color: yellow">:exclamation:</span> | Only None or Strong|
 | VoiceAttack | <span style="color: green">:heavy_check_mark:</span> | |
 | VoiceCapture | <span style="color: green">:heavy_check_mark:</span> | |

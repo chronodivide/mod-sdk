@@ -225,7 +225,6 @@ You can also apply on the game's [Discord](https://discord.gg/uavJ34JTWY) server
 * &cross; INI flags related to AI-controlled opponents found in `rules.ini` and `ai.ini` and maps
 * &cross; Localized or ambient damage inflicted by Particle systems or sprite Animations
 * &cross; Negative light/darkening on `AlphaImage`s (values lower than 127)
-* &cross; Veteran abilities which are unused in the original client (e.g. RANGE, GUARD_AREA)
 * &cross; `voxels.vpl`. Because voxels are rendered as 3D models, lighting is entirely managed by the 3D engine.
 * &cross; Obsolete TS logic (tunnels, ice cracks etc.)
 
