@@ -1,6 +1,6 @@
 # List of supported map entries
 
-*Engine version: 0.45*
+*Engine version: 0.46*
 
 ## Events
 
@@ -193,5 +193,23 @@
 | 115 | FlashCameo | | |
 | 116 | StopSoundsAt | <span style="color: green">:heavy_check_mark:</span> | |
 | 117 | PlayIngameMoviePause | <span style="color: green">:heavy_check_mark:</span> | |
+
+</details>
+
+
+## [SpecialFlags]
+
+<details>
+
+| Key | Supported | Notes |
+| --- | --- | --- |
+| DestroyableBridges | | |
+| FixedAlliance | | |
+| FogOfWar | | |
+| HarvesterImmune | | |
+| InitialVeteran | <span style="color: green">:heavy_check_mark:</span> | |
+| MCVDeploy | | |
+| TiberiumGrows | | |
+| TiberiumSpreads | | |
 
 </details>
