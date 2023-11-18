@@ -1,6 +1,6 @@
 # List of supported map entries
 
-*Engine version: 0.46*
+*Engine version: 0.53*
 
 ## Events
 
@@ -33,8 +33,8 @@
 | 22 | BuildAircraft | <span style="color: green">:heavy_check_mark:</span> | |
 | 23 | TeamLeavesMap | | |
 | 24 | ZoneEnteredBy | | |
-| 25 | CrossesHorizontalLine | | |
-| 26 | CrossesVerticalLine | | |
+| 25 | CrossesHorizontalLine | <span style="color: green">:heavy_check_mark:</span> | |
+| 26 | CrossesVerticalLine | <span style="color: green">:heavy_check_mark:</span> | |
 | 27 | GlobalIsSet | <span style="color: green">:heavy_check_mark:</span> | |
 | 28 | GlobalIsCleared | <span style="color: green">:heavy_check_mark:</span> | |
 | 29 | DestroyedOrCaptured | <span style="color: green">:heavy_check_mark:</span> | |
@@ -144,7 +144,7 @@
 | 66 | LargeLightFlash | | |
 | 67 | AnnounceWin | | |
 | 68 | AnnounceLose | | |
-| 69 | ForceEnd | | |
+| 69 | ForceEnd | <span style="color: green">:heavy_check_mark:</span> | |
 | 70 | DestroyTag | <span style="color: green">:heavy_check_mark:</span> | |
 | 71 | SetAmbientStep | <span style="color: green">:heavy_check_mark:</span> | |
 | 72 | SetAmbientRate | <span style="color: green">:heavy_check_mark:</span> | |
