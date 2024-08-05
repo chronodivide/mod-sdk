@@ -1,6 +1,6 @@
 # List of supported `rules.ini` entries
 
-*Engine version: 0.45*
+*Engine version: 0.60*
 
 ## [General]
 
@@ -884,7 +884,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | DockUnload |  | |
 | DontScore | <span style="color: green">:heavy_check_mark:</span> | |
 | DoubleOwned |  | |
-| EligibleForDelayKill |  | |
+| EligibleForDelayKill | <span style="color: green">:heavy_check_mark:</span> | |
 | EligibileForAllyBuilding | <span style="color: green">:heavy_check_mark:</span> | |
 | EliteAbilities | <span style="color: green">:heavy_check_mark:</span> | |
 | ElitePrimary | <span style="color: green">:heavy_check_mark:</span> | |
@@ -1256,7 +1256,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | BombDisarm | <span style="color: green">:heavy_check_mark:</span> | |
 | Bright |  | |
 | Bullets | <span style="color: green">:heavy_check_mark:</span> | |
-| CausesDelayKill |  | |
+| CausesDelayKill | <span style="color: green">:heavy_check_mark:</span> | |
 | CellInset |  | |
 | CellSpread | <span style="color: green">:heavy_check_mark:</span> | |
 | CLDisableBlue |  | |
@@ -1266,8 +1266,8 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Culling | <span style="color: green">:heavy_check_mark:</span> | |
 | Deform |  | |
 | DeformThreshhold |  | |
-| DelayKillAtMax |  | |
-| DelayKillFrames |  | |
+| DelayKillAtMax | <span style="color: green">:heavy_check_mark:</span> | |
+| DelayKillFrames | <span style="color: green">:heavy_check_mark:</span> | |
 | ElectricAssault | <span style="color: green">:heavy_check_mark:</span> | |
 | EMEffect | <span style="color: green">:heavy_check_mark:</span> | |
 | Fire |  | |
