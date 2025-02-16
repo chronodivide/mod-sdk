@@ -813,7 +813,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | BombSight |  | |
 | BridgeRepairHut | <span style="color: green">:heavy_check_mark:</span> | |
 | BuildCat | <span style="color: green">:heavy_check_mark:</span> | |
-| BuildLimit | <span style="color: green">:heavy_check_mark:</span> | |
+| BuildLimit | <span style="color: yellow">:exclamation:</span> | Only positive values | |
 | BurstDelay* | <span style="color: green">:heavy_check_mark:</span> | |
 | C4 | <span style="color: green">:heavy_check_mark:</span> | |
 | CanApproachTarget |  | |
