@@ -1190,6 +1190,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Spawner | <span style="color: green">:heavy_check_mark:</span> | |
 | Speed | <span style="color: green">:heavy_check_mark:</span> | |
 | Suicide | <span style="color: green">:heavy_check_mark:</span> | |
+| Supress |  | |
 | TerrainFire |  | |
 | TurboBoost |  | |
 | UseFireParticles |  | |
