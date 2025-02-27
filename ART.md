@@ -105,6 +105,7 @@
 | EliteSecondaryFireFLH | <span style="color: green">:heavy_check_mark:</span> | |
 | End | <span style="color: yellow">:exclamation:</span> | Always interpreted as inclusive last frame index |
 | ExtraLight |  | |
+| Facings | <span style="color: green">:heavy_check_mark:</span> | See [Ares docs](https://ares-developers.github.io/Ares-docs/new/facings.html) |
 | FireAngle |  | |
 | FireUp | <span style="color: green">:heavy_check_mark:</span> | |
 | FiringFrames | <span style="color: green">:heavy_check_mark:</span> | |
@@ -198,7 +199,11 @@
 | `SpecialAnim<Num>Y` | <span style="color: green">:heavy_check_mark:</span> | Two, Three, Four |
 | `SpecialAnim<Num>YSort` |  | Two, Three, Four |
 | `SpecialAnim<Num>ZAdjust` |  | Two, Three, Four |
+| StandingFrames | <span style="color: green">:heavy_check_mark:</span> | |
 | Start | <span style="color: green">:heavy_check_mark:</span> | |
+| StartFiringFrame | <span style="color: green">:heavy_check_mark:</span> | |
+| StartStandFrame | <span style="color: green">:heavy_check_mark:</span> | |
+| StartWalkFrame | <span style="color: green">:heavy_check_mark:</span> | |
 | StartSound | <span style="color: green">:heavy_check_mark:</span> | |
 | SuperAnim | <span style="color: green">:heavy_check_mark:</span> | |
 | SuperAnimDamaged | <span style="color: green">:heavy_check_mark:</span> | |

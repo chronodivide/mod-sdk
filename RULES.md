@@ -136,6 +136,9 @@
 | SovietCrew | <span style="color: green">:heavy_check_mark:</span> | |
 | Technician | <span style="color: green">:heavy_check_mark:</span> | |
 | Engineer | <span style="color: green">:heavy_check_mark:</span> | |
+| EngineerAlwaysCaptureTech | <span style="color: green">:heavy_check_mark:</span> | See [Ares docs](https://ares-developers.github.io/Ares-docs/restored/multiengineer.html) |
+| EngineerCaptureLevel | <span style="color: green">:heavy_check_mark:</span> | |
+| EngineerDamage | <span style="color: green">:heavy_check_mark:</span> | |
 | PParatrooper |  | |
 | ChronoDelay | <span style="color: green">:heavy_check_mark:</span> | |
 | ChronoReinfDelay |  | |
@@ -678,7 +681,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | GameSpeed | <span style="color: green">:heavy_check_mark:</span> | |
 | AIDifficulty |  | |
 | AIPlayers |  | |
-| BridgeDestruction |  | |
+| BridgeDestruction | <span style="color: green">:heavy_check_mark:</span> | |
 | ShadowGrow |  | |
 | Shroud |  | |
 | Bases |  | |
@@ -686,7 +689,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Crates | <span style="color: green">:heavy_check_mark:</span> | |
 | CaptureTheFlag |  | |
 | HarvesterTruce |  | |
-| MultiEngineer |  | |
+| MultiEngineer | <span style="color: green">:heavy_check_mark:</span> | |
 | AlliesAllowed | <span style="color: green">:heavy_check_mark:</span> | |
 | ShortGame | <span style="color: green">:heavy_check_mark:</span> | |
 | FogOfWar |  | |
@@ -813,7 +816,8 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | BombSight |  | |
 | BridgeRepairHut | <span style="color: green">:heavy_check_mark:</span> | |
 | BuildCat | <span style="color: green">:heavy_check_mark:</span> | |
-| BuildLimit | <span style="color: yellow">:exclamation:</span> | Only positive values | |
+| BuildLimit | <span style="color: green">:heavy_check_mark:</span> | |
+| BuildTimeMultiplier | <span style="color: green">:heavy_check_mark:</span> | |
 | BurstDelay* | <span style="color: green">:heavy_check_mark:</span> | |
 | C4 | <span style="color: green">:heavy_check_mark:</span> | |
 | CanApproachTarget |  | |
@@ -976,6 +980,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | MoveSound | <span style="color: green">:heavy_check_mark:</span> | |
 | MoveToShroud | <span style="color: green">:heavy_check_mark:</span> | |
 | Name | <span style="color: green">:heavy_check_mark:</span> | |
+| Natural | <span style="color: green">:heavy_check_mark:</span> | |
 | NaturalSmokeLocation |  | |
 | Naval | <span style="color: green">:heavy_check_mark:</span> | |
 | NavalTargeting | <span style="color: green">:heavy_check_mark:</span> | |
@@ -1109,6 +1114,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | UnitReload | <span style="color: green">:heavy_check_mark:</span> | |
 | UnitRepair | <span style="color: green">:heavy_check_mark:</span> | |
 | UnloadingClass | <span style="color: green">:heavy_check_mark:</span> | |
+| Unnatural | <span style="color: green">:heavy_check_mark:</span> | |
 | Unsellable | <span style="color: green">:heavy_check_mark:</span> | |
 | Upgrades |  | |
 | VehicleThief |  | |
