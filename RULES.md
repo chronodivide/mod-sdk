@@ -875,7 +875,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | DeployFireWeapon | <span style="color: green">:heavy_check_mark:</span> | |
 | DeploysInto | <span style="color: green">:heavy_check_mark:</span> | |
 | DeploySound | <span style="color: green">:heavy_check_mark:</span> | |
-| DeployTime |  | |
+| DeployTime | <span style="color: yellow">:exclamation:</span> | Supported only for factories |
 | DeployToFire |  | |
 | DestroyAnim |  | |
 | DetectDisguise | <span style="color: green">:heavy_check_mark:</span> | |
@@ -915,6 +915,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Gate | <span style="color: yellow">:exclamation:</span> | Only for correct rendering |
 | GateCloseDelay |  | |
 | GDIBarracks | <span style="color: green">:heavy_check_mark:</span> | |
+| Grinding | <span style="color: green">:heavy_check_mark:</span> | |
 | GuardRange | <span style="color: green">:heavy_check_mark:</span> | |
 | Gunner | <span style="color: green">:heavy_check_mark:</span> | |
 | HalfDamageSmokeLocation1 |  | |
@@ -1113,9 +1114,10 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Underwater | <span style="color: green">:heavy_check_mark:</span> | |
 | UnitReload | <span style="color: green">:heavy_check_mark:</span> | |
 | UnitRepair | <span style="color: green">:heavy_check_mark:</span> | |
+| UnitSell | <span style="color: green">:heavy_check_mark:</span> | See [Ares docs](https://ares-developers.github.io/Ares-docs/new/sellunit.html). (default=no) |
 | UnloadingClass | <span style="color: green">:heavy_check_mark:</span> | |
 | Unnatural | <span style="color: green">:heavy_check_mark:</span> | |
-| Unsellable | <span style="color: green">:heavy_check_mark:</span> | |
+| Unsellable | <span style="color: green">:heavy_check_mark:</span> | Also supported when selling units at `UnitSell=yes` docking structures. |
 | Upgrades |  | |
 | VehicleThief |  | |
 | VeteranAbilities | <span style="color: green">:heavy_check_mark:</span> | |
@@ -1259,6 +1261,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 
 | Key | Supported | Notes |
 | --- | --- | --- |
+| AffectsAllies | <span style="color: green">:heavy_check_mark:</span> | |
 | AnimList | <span style="color: green">:heavy_check_mark:</span> | |
 | BombDisarm | <span style="color: green">:heavy_check_mark:</span> | |
 | Bright |  | |
