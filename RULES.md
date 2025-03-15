@@ -1,6 +1,6 @@
 # List of supported `rules.ini` entries
 
-*Engine version: 0.60*
+*Engine version: 0.69*
 
 ## [General]
 

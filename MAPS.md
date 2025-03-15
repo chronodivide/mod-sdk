@@ -1,6 +1,6 @@
 # List of supported map entries
 
-*Engine version: 0.53*
+*Engine version: 0.70*
 
 ## Events
 
@@ -213,3 +213,7 @@
 | TiberiumSpreads | | |
 
 </details>
+
+## [ART.&lt;SECTION>]
+
+This is a map extension feature that allows overriding art.ini entries. This is similar to rules.ini overrides and is simply done by prefixing the art.ini section name with `ART.`. E.g: `[ART.GI]`, `[ART.GACNST]` etc.

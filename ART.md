@@ -1,6 +1,6 @@
 # List of supported `art.ini` entries
 
-*Engine version: 0.44*
+*Engine version: 0.67*
 
 ## `[<InfantrySequence>]`
 
