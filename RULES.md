@@ -1,6 +1,6 @@
 # List of supported `rules.ini` entries
 
-*Engine version: 0.69*
+*Engine version: 0.72*
 
 ## [General]
 
@@ -1121,7 +1121,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Upgrades |  | |
 | VehicleThief |  | |
 | VeteranAbilities | <span style="color: green">:heavy_check_mark:</span> | |
-| VHPScan | <span style="color: yellow">:exclamation:</span> | Only None or Strong|
+| VHPScan | <span style="color: green">:heavy_check_mark:</span> | |
 | VoiceAttack | <span style="color: green">:heavy_check_mark:</span> | |
 | VoiceCapture | <span style="color: green">:heavy_check_mark:</span> | |
 | VoiceComment |  | |
