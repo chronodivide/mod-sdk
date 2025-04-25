@@ -1,6 +1,6 @@
 # List of supported `rules.ini` entries
 
-*Engine version: 0.72*
+*Engine version: 0.74*
 
 ## [General]
 
@@ -297,6 +297,8 @@
 | DumbTargetStrengthCoefficient |  | |
 | DumbTargetDistanceCoefficient |  | |
 | EnemyHouseThreatBonus |  | |
+| UnitsUnsellable | <span style="color: green">:heavy_check_mark:</span> | See [Ares docs](https://ares-developers.github.io/Ares-docs/new/sellunit.html) |
+| ReturnStructures | <span style="color: green">:heavy_check_mark:</span> | See [Ares docs](https://ares-developers.github.io/Ares-docs/new/buildings/techstructures.html) |
 
 </details>
 
@@ -1047,6 +1049,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | RequiresStolenAlliedTech | <span style="color: green">:heavy_check_mark:</span> | |
 | RequiresStolenSovietTech | <span style="color: green">:heavy_check_mark:</span> | |
 | ReselectIfLimboed | <span style="color: green">:heavy_check_mark:</span> | |
+| Returnable | <span style="color: green">:heavy_check_mark:</span> | See [Ares docs](https://ares-developers.github.io/Ares-docs/new/buildings/techstructures.html) |
 | RevealToAll | <span style="color: green">:heavy_check_mark:</span> | |
 | RollAngle |  | |
 | ROT | <span style="color: green">:heavy_check_mark:</span> | |
@@ -1114,7 +1117,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Underwater | <span style="color: green">:heavy_check_mark:</span> | |
 | UnitReload | <span style="color: green">:heavy_check_mark:</span> | |
 | UnitRepair | <span style="color: green">:heavy_check_mark:</span> | |
-| UnitSell | <span style="color: green">:heavy_check_mark:</span> | See [Ares docs](https://ares-developers.github.io/Ares-docs/new/sellunit.html). (default=no) |
+| UnitSell | <span style="color: green">:heavy_check_mark:</span> | See [Ares docs](https://ares-developers.github.io/Ares-docs/new/sellunit.html) |
 | UnloadingClass | <span style="color: green">:heavy_check_mark:</span> | |
 | Unnatural | <span style="color: green">:heavy_check_mark:</span> | |
 | Unsellable | <span style="color: green">:heavy_check_mark:</span> | Also supported when selling units at `UnitSell=yes` docking structures. |
