@@ -1,6 +1,6 @@
 # List of supported `rules.ini` entries
 
-*Engine version: 0.74*
+*Engine version: 0.79*
 
 ## [General]
 
@@ -862,6 +862,7 @@ MessageDuration | 10 | How long chat messages are displayed for (in seconds)
 | Cyborg |  | |
 | DamageParticleSystems | <span style="color: green">:heavy_check_mark:</span> | |
 | DamageReducesReadiness |  | |
+| DamageSelf | <span style="color: green">:heavy_check_mark:</span> | |
 | DamageSmokeOffset | <span style="color: green">:heavy_check_mark:</span> | |
 | DamageSound |  | |
 | DeaccelerationFactor |  | |
